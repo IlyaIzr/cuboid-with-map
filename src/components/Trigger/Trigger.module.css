@@ -1,0 +1,9 @@
+.triggers {
+  display: flex;
+  width: 100%;
+  gap: 8px;
+}
+
+.triggers button {
+  padding: 6px 8px;
+}
